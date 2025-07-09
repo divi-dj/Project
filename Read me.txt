@@ -1,0 +1,9 @@
+#ice cream project
+
+To access the website :
+use localhost/ server on xamp
+
+for admin login :
+ID-main
+Password-main
+use localhost/ server on xamp
